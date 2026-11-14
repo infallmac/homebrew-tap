@@ -8,7 +8,7 @@ cask "infall" do
   homepage "https://infallmac.com"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Infall.app"
 end
