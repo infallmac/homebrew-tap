@@ -1,6 +1,6 @@
 cask "infall" do
-  version "1.2.1,8"
-  sha256 "1e5774ed81c08e1c9ca1a2b57d8a637495af803cf4e6d83b7501f40c4ab6f8dd"
+  version "1.2.2,9"
+  sha256 "05e12e665d94791570de85352dd44f0ed2b8b3392e26975bccf3817262678b37"
 
   url "https://infallmac.com/downloads/Infall-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Infall"
